@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seniru</h1>
 <h3 align="center">loves to learn anything</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seniru-dilmith" alt="seniru-dilmith" /></a> </p>
-
 - 🔭 I’m currently working on **my university projects**
 
 - 🌱 I’m currently learning **Web designing, mobile app development, AI, machine learning**
