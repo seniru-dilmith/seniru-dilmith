@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seniru</h1>
-<h3 align="center">loves to learn anything</h3>
+<h3 align="center">love to learn anything</h3>
 
 - 🔭 I’m currently working on **my university projects**
 
