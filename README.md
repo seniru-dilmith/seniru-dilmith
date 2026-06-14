@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seniru</h1>
 <h2>💫 About Me: </h2>
 
-🔭 I’m currently working on my university projects and at Moraspirit<br>👯 I’m looking to collaborate on any interesting project<br>🌱 I’m currently learning cyber security related things<br>💬 Ask me about something amazing so that I can learn too<br>⚡ Fun fact: Happiness is encrypted. Find the key to decrypt it.
+🔭 I’m currently working on my university projects, developing my own things and doing various experiments.<br>👯 I’m looking to collaborate on any interesting project.<br>🌱 I’m currently learning cyber security related things.<br>💬 Ask me about something amazing so that I can learn too.<br>⚡ Fun fact: Happiness is encrypted. Find the decryption key.
 
 
 ## 🌐 Socials:
